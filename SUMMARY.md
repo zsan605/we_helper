@@ -6,7 +6,7 @@
 * 更新记录
     * [Android](updateRecoder/android.md)
 * [隐私政策](privacyPolicy.md)
-* [用户协议](userAAgreement.md)
+* [用户协议](userAgreement.md)
     
 
 
